@@ -1,0 +1,24 @@
+#map {
+  height: 500px;
+  width: 100%;
+}
+#directions {
+  height: 500px;
+  background-color: #f8f9fa;
+}
+/*Start and end icons*/
+.custom-div-icon .circle-marker {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+.circle-marker.green {
+  background-color: #28a745;
+}
+
+.circle-marker.red {
+  background-color: #dc3545;
+}
