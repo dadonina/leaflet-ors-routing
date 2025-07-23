@@ -1,4 +1,4 @@
-const apiKey = '5b3ce3597851110001cf6248feb147fd9b8e44ecb53986ed7104eaa6';
+const apiKey = 'YOUR_API_KEY';
 // Initialize the map centered on Barcelona
 const map = L.map("map").setView([41.390205, 2.154007], 13);
 
